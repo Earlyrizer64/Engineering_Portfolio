@@ -46,7 +46,7 @@ Thermal Analysis
 | ![Orca Sliced File Image](/Fan_Design_Files/Orca_Slice_Image.png) | 3D printed structural components<br>- Assembled motor and blade system<br>- Soldered electrical connections | 
 | SolidWorks Drawing Files | <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Fan_Design_Files/SW_Drawing_Files.zip"><img src="https://img.shields.io/badge/SolidWorks_Drawing_Files-blue?style=for-the-badge"></a> |
 | Orca Files | <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Fan_Design_Files/3mf_Files_From_Orca.zip"><img src="https://img.shields.io/badge/Orca_Files-blue?style=for-the-badge"> </a> |
-| SLT Files | <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Fan_Design_Files/STL_Files_for_Printing.zip"><img src="https://img.shields.io/badge/STL_Files-blue?style=for-the-badge"> </a> |
+| SLT Files | <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Fan_Design_Files/STL_FIles_for_Printing.zip"><img src="https://img.shields.io/badge/STL_Files-blue?style=for-the-badge"> </a> |
 
 ***
 
