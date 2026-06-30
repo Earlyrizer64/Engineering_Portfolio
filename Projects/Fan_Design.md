@@ -50,11 +50,11 @@ Thermal Analysis
 
 ***
 
-Analysis and Testing
+# Analysis and Testing
 
 | Thermal Stress Test | Fluid Flow Simulation |
 | :-----------------: | :-------------------: |
-| <p align="center"><img src="/Fan_Design_Files/Thermal_Stress_Image.png" width="350"></p> | <p align="center"><a href="https://youtu.be/90CtCeXjsDc"><img src="/Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg" width="350"></a></p> |
+| <p align="center"><img src="/Fan_Design_Files/Thermal_Stress_Image.png" height="400"></p> | <p align="center"><a href="https://youtu.be/90CtCeXjsDc"><img src="/Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg" height="400"></a></p> |
 
 Thermal Analysis was performed to assess if the batteries would heat up with prolonged use.  SolidWorks Thermal Analysis showed there was not a significant thermal stress, and physical testing confirmed the results.  A Fluid Flow Simulation was performed using Flow Simulation in SolidWorks to determine whether there would be meaningful flow out of the fan to be able to cool someone.  The simulation showed there was sufficient flow out of the front of the fan.  
 
