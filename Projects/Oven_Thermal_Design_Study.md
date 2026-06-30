@@ -18,7 +18,7 @@
 
   Steady-state MATLAB thermal model using a resistance network was used to evaluate oven heat loss at 350°F. A parametric sweep over insulation materials and thicknesses was performed, followed by a cost vs performance optimization to select the most efficient insulation design.
 
-<img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="1000">
+<img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="800">
 <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1
 .zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_1-blue?style=for-the-badge"> </a>
 
@@ -112,7 +112,7 @@ Heat Sink Design (A larger Surface Area would lead to more heat being transfered
 </tr>
 </table>
 
-| <img src="Oven_Thermal_Design_Study_Files/All_Heat_Curves.png" width="1000" height="700"> | <img src="Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png" width="300" height="300"> |
+| <img src="/Oven_Thermal_Design_Study_Files/All_Heat_Curves.png" width="1000" height="700"> | <img src="/Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png" width="300" height="300"> |
 |:----:|:---:|
 | Heat Curve for all Designs | Final Stacked Tray Design |
 
