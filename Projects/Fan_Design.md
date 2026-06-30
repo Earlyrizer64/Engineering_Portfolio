@@ -2,17 +2,17 @@
 <table>
 <tr>
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_4.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_4.jpg" width="400" height="400"><br>
 SolidWorks Assembly
 </td>
 
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_2.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_2.jpg" width="400" height="400"><br>
 Orca File
 </td>
 
 <td align="center">
-<img src="Fan_Design_Files/Main_Pic_3.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_3.jpg" width="400" height="400"><br>
 Thermal Analysis
 </td>
 </tr>
@@ -23,10 +23,10 @@ Thermal Analysis
 # Custom Fan Design and Thermal Analysis
 | Project Overview | Final Product Video |
 | :--------------: | :-----------------: |
-| Designed and fabricated a fully functional electric fan, completing the project from CAD modeling through physical manufacturing and performance testing. The project included SolidWorks modeling, 3D printing, electrical soldering, and structural and thermal stress analysis to evaluate product durability and safety.  | [![Final Product Video](Video_Previews/Final_Video_Preview.jpg)](https://youtu.be/hzLtAGD7JCc) |
-| Assembly Plan Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Assembly_Plan.pdf"><img src="https://img.shields.io/badge/Assembly_Plan-blue" width="200" height="100"> </a> |
-| Fan Design Report Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Fan_Design_Report.pdf"><img src="https://img.shields.io/badge/Fan_Design_Report-blue" width="200" height="100"> </a> |
-| Bill of Materials Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Fan_Design_Bill_of_Materials.xlsx"><img src="https://img.shields.io/badge/Bill_of_Materials-blue" width="200" height="100"> </a> |
+| Designed and fabricated a fully functional electric fan, completing the project from CAD modeling through physical manufacturing and performance testing. The project included SolidWorks modeling, 3D printing, electrical soldering, and structural and thermal stress analysis to evaluate product durability and safety.  | [![Final Product Video](/Video_Previews/Final_Video_Preview.jpg)](https://youtu.be/hzLtAGD7JCc) |
+| Assembly Plan Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Assembly_Plan.pdf"><img src="https://img.shields.io/badge/Assembly_Plan-blue?style=for-the-badge"> </a> |
+| Fan Design Report Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Fan_Design_Report.pdf"><img src="https://img.shields.io/badge/Fan_Design_Report-blue?style=for-the-badge"> </a> |
+| Bill of Materials Download | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Fan_Design_Bill_of_Materials.xlsx"><img src="https://img.shields.io/badge/Bill_of_Materials-blue?style=for-the-badge"> </a> |
 
 ***
 
@@ -34,8 +34,8 @@ Thermal Analysis
 
 | Assembly Exploded Video | Concept and CAD |
 | :---------------------: | :-------------: |
-| [![Assembly Exploded View](Video_Previews/Final_Assembly_Exploded_View.jpg)](https://youtu.be/zVu0sHj5E2g) | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural rigidity |
-| SolidWorks Assembly Files | <a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Fan_Design_Files/Final_Assembly_in_SolidWorks.zip"><img src="https://img.shields.io/badge/SolidWorks_Assembly_Files-blue" width="200" height="100"> </a>
+| [![Assembly Exploded View](/Video_Previews/Final_Assembly_Exploded_View.jpg)](https://youtu.be/zVu0sHj5E2g) | - Fully modeled assembly in SolidWorks<br>- Designed housing, blade geometry, and mounting structure<br>- Considered airflow direction and structural rigidity |
+| SolidWorks Assembly Files | <a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Fan_Design_Files/Final_Assembly_in_SolidWorks.zip"><img src="https://img.shields.io/badge/SolidWorks_Assembly_Files-blue?style=for-the-badge"> </a>
 
 ***
 
