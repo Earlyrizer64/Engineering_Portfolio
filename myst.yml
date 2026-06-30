@@ -3,14 +3,14 @@ version: 1
 project:
   toc:
     - file: index.md
-    - file: /Projects/Fan_Design
-    - file: /Projects/Oven_Thermal_Design_Study
-    - file: /Projects/Archimedes_Spiral_Wind_Turbine
+    - file: Projects/Fan_Design.md
+    - file: Projects/Oven_Thermal_Design_Study.md
+    - file: Projects/Archimedes_Spiral_Wind_Turbine.md
   #  - 
   exclude:
-    - Archimedes_Spiral_Wind_Turbine_Files/*
-    - Buttons/*
-    - Fan_Design_Files/*
+    - Archimedes_Spiral_Wind_Turbine_Files/
+    - Buttons/
+    - Fan_Design_Files/
     - Oven_Thermal_Design_Study_Files
     - README.md
     - Oven_Thermal)design_Study.markdown 
