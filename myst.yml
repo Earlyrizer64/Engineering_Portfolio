@@ -8,12 +8,10 @@ project:
     - file: Projects/Archimedes_Spiral_Wind_Turbine.md
   #  - 
   exclude:
-    - Archimedes_Spiral_Wind_Turbine_Files/
-    - Buttons/
-    - Fan_Design_Files/
-    - Oven_Thermal_Design_Study_Files
-    - README.md
-    - Oven_Thermal)design_Study.markdown 
+  #  - Archimedes_Spiral_Wind_Turbine_Files/
+  #  - Fan_Design_Files/
+  #  - Oven_Thermal_Design_Study_Files
+  #  - README.md
   id: 75d4bd7b-90b1-4872-9d45-04186b797448
   # title:
   # description:
