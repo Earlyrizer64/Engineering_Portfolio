@@ -7,12 +7,12 @@
 
 | Project Overview | Images |
 |:-----------------|:-------|
-| This project was based on a real engineering constraint where an industrial baking process required reduced cook time to meet production demand without purchasing additional ovens.  We first performed a steady-state thermal analysis of the oven at an internal operating temperature of 350°F, modeling heat loss through a thermal resistance network with various insulation configurations. The goal was to ensure that heat input exceeded losses to maintain stable operating conditions.| <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="5000" height="5000"> |
-| Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.| <img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="5000" height="5000"> |
-| Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | <img src="Oven_Thermal_Design_Study_Files/Original_Model_Image.png" width="5000" height="5000"> |
+| This project was based on a real engineering constraint where an industrial baking process required reduced cook time to meet production demand without purchasing additional ovens.  We first performed a steady-state thermal analysis of the oven at an internal operating temperature of 350°F, modeling heat loss through a thermal resistance network with various insulation configurations. The goal was to ensure that heat input exceeded losses to maintain stable operating conditions.| <img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png"> |
+| Next, we developed a transient lumped capacitance model in MATLAB to simulate the cooking process of a food item with thermally similar properties to chicken. This allowed estimation of internal temperature evolution and baseline cook time predictions.| <img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png"> |
+| Finally, the system was modeled in SolidWorks Thermal Simulation to capture spatial temperature gradients and geometric effects not included in simplified models. This step was used to evaluate design modifications aimed at reducing cook time and improving thermal efficiency, ultimately targeting reduced production bottlenecks and avoiding capital equipment expansion. | <img src="/Oven_Thermal_Design_Study_Files/Original_Model_Image.png"> |
 
 <div align="center">
-<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Heat_Transfer_Mid-Term_Project.pdf"> <img src="https://img.shields.io/badge/Final_Report-blue" width="100" height="50"> </a>
+<a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Oven_Thermal_Design_Study_Files/Heat_Transfer_Mid-Term_Project.pdf"> <img src="https://img.shields.io/badge/Final_Report-blue?style=for-the-badge"> </a>
 </div>
 
 ***

@@ -1,12 +1,11 @@
-<div align="center">
-  
-  # Archimedes Sprial Wind Turbine
-</div>
+# Archimedes Sprial Wind Turbine
 
 
 | Project Overview | Video of Wind Turbine |
 |:----------------:|:---------------------:|
-|Designed and constructed a novel small-scale wind turbine prototype optimized for turbulent urban wind conditions. The team selected an Archimedes spiral blade geometry due to its ability to capture multidirectional and unsteady airflow more effectively than traditional horizontal-axis turbines. The project focused on aerodynamic performance, structural feasibility, and experimental validation under simulated wind conditions. | <a href="https://youtu.be/WuohDhst8Hg"><img src="https://img.youtube.com/vi/WuohDhst8Hg/maxresdefault.jpg"?</a> |
+|Designed and constructed a novel small-scale wind turbine prototype optimized for turbulent urban wind conditions. The team selected an Archimedes spiral blade geometry due to its ability to capture multidirectional and unsteady airflow more effectively than traditional horizontal-axis turbines. The project focused on aerodynamic performance, structural feasibility, and experimental validation under simulated wind conditions. | <a href="https://youtu.be/WuohDhst8Hg"><img src="https://img.youtube.com/vi/WuohDhst8Hg/maxresdefault.jpg"></a> |
+
+
 
 <div align="center">
   
@@ -28,7 +27,7 @@
 
 ## Fabrication
 
-| <img src="/Archimedes_Spiral_Wind_Turbine_Files/Actual_Turbine_Image.jpg"> | <img src="/Archimedes_Spiral_Wind_Turbine_Files/Orca_Slice_Image.png"> |
+| <img src="/Archimedes_Spiral_Wind_Turbine_Files/Actual_Turbine_Image.jpg"> | <img src="/Archimedes_Spiral_Wind_Turbine_Files/Orca_Slice_Image.png" width="300" height="300"> |
 |:--:|:--:|
 | Turbine Assembly | Orca Slice of Air Foil |
 
