@@ -2,17 +2,17 @@
 <table>
 <tr>
 <td align="center">
-<img src="/Fan_Design_Files/Main_Pic_4.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_4.jpg"><br>
 SolidWorks Assembly
 </td>
 
 <td align="center">
-<img src="/Fan_Design_Files/Main_Pic_2.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_2.jpg"><br>
 Orca File
 </td>
 
 <td align="center">
-<img src="/Fan_Design_Files/Main_Pic_3.jpg" width="400" height="400"><br>
+<img src="/Fan_Design_Files/Main_Pic_3.jpg"><br>
 Thermal Analysis
 </td>
 </tr>
@@ -54,7 +54,7 @@ Analysis and Testing
 
 | Thermal Stress Test | Fluid Flow Simulation |
 | :-----------------: | :-------------------: |
-| <p align="center"><img src="Fan_Design_Files/Thermal_Stress_Image.png" width="350"></p> | <p align="center"><a href="https://youtu.be/90CtCeXjsDc"><img src="Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg" width="350"></a></p> |
+| <p align="center"><img src="/Fan_Design_Files/Thermal_Stress_Image.png" width="350"></p> | <p align="center"><a href="https://youtu.be/90CtCeXjsDc"><img src="/Video_Previews/Model_4_Blade_and_Final_Case_(Velocity_Test).jpg" width="350"></a></p> |
 
 Thermal Analysis was performed to assess if the batteries would heat up with prolonged use.  SolidWorks Thermal Analysis showed there was not a significant thermal stress, and physical testing confirmed the results.  A Fluid Flow Simulation was performed using Flow Simulation in SolidWorks to determine whether there would be meaningful flow out of the fan to be able to cool someone.  The simulation showed there was sufficient flow out of the front of the fan.  
 
@@ -88,6 +88,6 @@ Prototype Fabrication & Assembly
 
 <div align="center">
 
-<a href="Gregory_Santilli_Resume.markdown"><img src="https://img.shields.io/badge/Back_To_Bio-blue" width="200" height="100"> </a>
+<a href="/Index.md"><img src="https://img.shields.io/badge/Back_To_Bio-blue" width="200" height="100"> </a>
 
 </div>
