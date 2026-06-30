@@ -1,9 +1,4 @@
-
-<div align="center">
-  
-  # Oven Thermal Design Study
-  
-</div>
+ # Oven Thermal Design Study
 
 | Project Overview | Images |
 |:-----------------|:-------|
@@ -22,9 +17,9 @@
 
   Steady-state MATLAB thermal model using a resistance network was used to evaluate oven heat loss at 350°F. A parametric sweep over insulation materials and thicknesses was performed, followed by a cost vs performance optimization to select the most efficient insulation design.
 
-<img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="1000">
-<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1
-.zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_1-blue" width="150" height="100"> </a>
+<img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_1.png" width="2000" height="1000">
+<a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part1
+.zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_1-blue?style=for-the-badge"> </a>
 
 </div>
 
@@ -52,9 +47,9 @@ Expanded perlite was selected as the optimal insulation due to its lowest cost w
 
 A transient lumped capacitance model was implemented in MATLAB/Simulink to simulate the cooking of a chicken-like thermal mass. Cook time and temperature evolution were predicted under convective, radiative, and conductive heating conditions. The validity of the lumped assumption was verified using the Biot number criterion (Bi < 0.1).  
 
-<img src="Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="1500" height="800">
-<a href="https://github.com/Earlyrizer64/Gregory_Santilli_Resume/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part2
-.zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_2-blue" width="150" height="100"> </a>
+<img src="/Oven_Thermal_Design_Study_Files/Resistive_Network_Pt_2.png" width="1500" height="800">
+<a href="https://github.com/Earlyrizer64/Engineering_Portfolio/raw/main/Oven_Thermal_Design_Study_Files/Mid_Term_Oven_Part2
+.zip"> <img src="https://img.shields.io/badge/Resistive_Network_Pt_2-blue?style=for-the-badge"> </a>
 
 ## Parameters Used for Transient Analysis
 
@@ -72,6 +67,7 @@ A transient lumped capacitance model was implemented in MATLAB/Simulink to simul
 The cake reached 160°F in ~55 minutes. The Biot number (1.281 > 0.1) indicated that internal temperature gradients were significant, violating the lumped capacitance assumption and limiting the accuracy of the model. This motivated a transition to 3D SolidWorks thermal simulation to capture spatial temperature variations. 
 
 ***
+
 # Thermal Design Optimization (SolidWorks FEA)
 
 Following the thermal analysis of the baseline cake-and-tray system, a design optimization study was conducted to reduce overall cooking time. Multiple tray geometries were evaluated in SolidWorks thermal simulations to modify heat transfer pathways and improve thermal response. The objective was to identify a configuration that minimized cook time while maintaining uniform heating of the product.
@@ -82,17 +78,17 @@ Following the thermal analysis of the baseline cake-and-tray system, a design op
 <table>
 <tr>
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Original_Design_Image.png" width="300" height="300"><br>
+<img src="/Oven_Thermal_Design_Study_Files/Original_Design_Image.png" width="300" height="300"><br>
 Original Model
 </td>
 
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Brownie_Design_Image.png" width="300" height="300"><br>
+<img src="/Oven_Thermal_Design_Study_Files/Brownie_Design_Image.png" width="300" height="300"><br>
 Brownie Design
 </td>
 
 <td align="center">
-<img src="Oven_Thermal_Design_Study_Files/Heat_Sink_Design_Image.png" width="300" height="300"><br>
+<img src="/Oven_Thermal_Design_Study_Files/Heat_Sink_Design_Image.png" width="300" height="300"><br>
 Heat Sink Design
 </td>
 </tr>
@@ -147,7 +143,7 @@ Heat Sink Design (A larger Surface Area would lead to more heat being transfered
 
 <div align="center">
 
-<a href="Gregory_Santilli_Resume.markdown"><img src="https://img.shields.io/badge/Back_To_Bio-blue" width="200" height="100"> </a>
+<a href=""><img src="https://img.shields.io/badge/Back_To_Bio-blue?style=for-the-badge"> </a>
 
 </div>
 
