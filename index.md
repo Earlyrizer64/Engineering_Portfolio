@@ -1,6 +1,4 @@
-<div align="center">
-  
-
+# Gregory Santilli
 
 Mechanical Engineering Graduate - Class of 2026
 
