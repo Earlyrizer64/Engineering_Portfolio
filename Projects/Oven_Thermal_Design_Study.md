@@ -112,9 +112,13 @@ Heat Sink Design (A larger Surface Area would lead to more heat being transfered
 </tr>
 </table>
 
-| <img src="/Oven_Thermal_Design_Study_Files/All_Heat_Curves.png"> | <img src="/Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png> |
-|:----:|:---:|
-| Heat Curve for all Designs | Final Stacked Tray Design |
+| <img src="/Oven_Thermal_Design_Study_Files/All_Heat_Curves.png"> |
+|:----:|
+| Heat Curve for all Designs |
+
+| <img src="/Oven_Thermal_Design_Study_Files/Stacked_Tray_Design_SW.png> |
+|:---:|
+| Final Stacked Tray Design |
 
 
 </div>
