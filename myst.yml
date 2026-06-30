@@ -2,7 +2,7 @@
 version: 1
 project:
   toc:
-    - Gregory_Santilli_Resume.markdown
+    - file: Gregory_Santilli_Resume.markdown
   #  - 
   exclude:
     - Archimedes_Spiral_Wind_Turbine_Files/*
